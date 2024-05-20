@@ -35,3 +35,38 @@ switch (kun) {
 
     default:console.log(`Bunday hafta kuni soni yo'q`);
 }
+
+// let sana = prompt(`Iyul oyi\n sana Kiriting!`)
+// switch (sana) {
+//     case '1': console.log('Dushanba'); break
+//     case '2': console.log('Seshanba'); break
+//     case '3': console.log('Chorshanba'); break
+//     case '4': console.log('Payshanba'); break
+//     case '5': console.log('Juma'); break
+//     case '6': console.log('Shanba'); break
+//     case '7': console.log('Yakshanba'); break
+//     case '8': console.log('Dushanba'); break
+//     case '9': console.log('Seshanba'); break
+//     case '10': console.log('Chorshanba'); break
+//     case '11': console.log('Payshanba'); break
+//     case '12': console.log('Juma'); break
+//     case '13': console.log('Shanba'); break
+//     case '14': console.log('Yakshanba'); break
+//     case '15': console.log('Dushanba'); break
+//     case '16': console.log('Seshanba'); break
+//     case '17': console.log('Chorshanba'); break
+//     case '18': console.log('Payshanba'); break
+//     case '19': console.log('Juma'); break
+//     case '20': console.log('Shanba'); break
+//     case '21': console.log('Yakshanba'); break
+//     case '22': console.log('Dushanba'); break
+//     case '23': console.log('Seshanba'); break
+//     case '24': console.log('Chorshanba'); break
+//     case '25': console.log('Payshanba'); break
+//     case '26': console.log('Juma'); break
+//     case '27': console.log('Shanba'); break
+//     case '28': console.log('Yakshanba'); break
+//     case '29': console.log('Dushanba'); break
+//     case '30': console.log('Seshanba'); break
+//     case '31 ': console.log('Chorshanba'); break
+// }
